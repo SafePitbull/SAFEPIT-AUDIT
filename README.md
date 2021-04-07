@@ -1,2 +1,2 @@
 # SAFEPIT-AUDIT
-TechRate full audit for SAFEPIT
+All of SAFEPIT (bsc token) Audits in one place.
